@@ -8,7 +8,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-component-j4rQ8OHy_Z](https://www.frontendmentor.io/solutions/order-summary-card-component-j4rQ8OHy_Z)
 - Live Site URL: [Order Summary Component](https://devtetra.github.io/order-summary/)
 
 ## Built with
