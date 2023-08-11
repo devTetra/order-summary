@@ -9,7 +9,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Order Summary Component](https://devtetra.github.io/qr_code/)
+- Live Site URL: [Order Summary Component](https://devtetra.github.io/order-summary/)
 
 ## Built with
 
